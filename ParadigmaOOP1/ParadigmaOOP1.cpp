@@ -2,7 +2,9 @@
 #include <string>
 using namespace std;
 
-c
+class mahasiswa {
+	 
+};
 
 int main() {
 
